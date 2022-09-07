@@ -1,11 +1,5 @@
 # 基于springboot的在线商城管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ：**商城3**
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
 ## 1、项目介绍
 
 基于springboot的在线商城管理系统3拥有两种角色，分别为管理员和用户
@@ -77,11 +71,4 @@
 
 ![管理员-订单收入统计](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206182213286.jpg)
 
-## 5、获取方式
-
-扫描下方，回复关键词 ：**商城3**
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
