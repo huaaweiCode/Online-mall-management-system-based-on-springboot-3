@@ -70,5 +70,9 @@
 ![管理员-订单信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206182213475.jpg)
 
 ![管理员-订单收入统计](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206182213286.jpg)
+### 获取方式&视频演示
 
+下方扫一下，回复关键词：商城
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
 
